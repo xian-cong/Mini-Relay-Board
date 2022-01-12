@@ -1,0 +1,42 @@
+Relay:
+https://www.digikey.my/product-detail/en/te-connectivity-potter-brumfield-relays/PCN-105D3MHZ-000/PCN-105D3MHZ000-ND/1427537
+Datasheet: 
+https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=PCN_series_relay_data_sheet_E&DocType=DS&DocLang=English
+
+
+Mosfet(N):
+https://www.digikey.my/product-detail/en/on-semiconductor/NTK3134NT5G/2156-NTK3134NT5G-OS-ND/13457296
+
+LED:
+https://www.digikey.my/product-detail/en/kingbright/APHHS1005CGCK/754-1101-2-ND/1747499
+
+
+Diode:
+https://www.digikey.my/product-detail/en/mdd/SS34B/3372-SS34BTR-ND/14288057
+
+ON/OFF IC:
+https://www.analog.com/media/en/technical-documentation/data-sheets/2954fb.pdf
+
+
+Mosfet(P):
+https://www.digikey.my/product-detail/en/toshiba-semiconductor-and-storage/TPN4R712MD-L1Q/TPN4R712MDL1QCT-ND/5323105
+
+
+Capacitor 0.1uF:
+https://www.digikey.my/product-detail/en/kemet/C0402C104K7PAC7867/399-14871-1-ND/7382420
+
+
+Capacitor 3uF:
+https://www.digikey.my/product-detail/en/taiyo-yuden/AMK105BJ335MV-F/587-2236-6-ND/2003027
+
+
+LED resistor:
+https://www.digikey.my/product-detail/en/panasonic-electronic-components/ERJ-2GEJ5R1X/P5-1JCT-ND/282381
+1k resistor:
+https://www.digikey.my/product-detail/en/yageo/RC0402JR-071KL/311-1-0KJRCT-ND/729355
+
+10k resistor:
+https://www.digikey.my/product-detail/en/yageo/RC0402JR-0710KL/311-10KJRCT-ND/729365
+
+100k resistor:
+https://www.digikey.my/product-detail/en/yageo/RC0402FR-07100KL/311-100KLRCT-ND/729473
