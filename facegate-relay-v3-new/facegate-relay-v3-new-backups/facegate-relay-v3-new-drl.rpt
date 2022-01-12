@@ -1,0 +1,27 @@
+Drill report for facegate-relay-v3-new.kicad_pcb
+Created on 6/24/2021 4:06:45 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'facegate-relay-v3-new-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (6 holes)
+    T2  0.500mm  0.0197"  (2 holes)
+    T3  0.890mm  0.0350"  (6 holes)
+    T4  1.000mm  0.0394"  (6 holes)
+    T5  1.016mm  0.0400"  (4 holes)
+
+    Total plated holes count 24
+
+
+Drill file 'facegate-relay-v3-new-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.200mm  0.0866"  (2 holes)
+
+    Total unplated holes count 2
